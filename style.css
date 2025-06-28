@@ -1,0 +1,45 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+  text-align: center;
+  background-image: url("https://milehighspine.com/wp-content/uploads/BodyWeight1-700x462.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+
+}
+.header h1 {
+  color:black;
+  font-size: 24px;
+}
+
+.converter-box {
+  max-width: 400px;
+  margin: auto;
+}
+
+
+input, select, button {
+  margin: 10px 0;
+  padding: 8px;
+  font-size: 16px;
+  width: 100%;
+  box-sizing: border-box;
+  border-radius: 10px;
+}
+
+.result {
+  margin-top: 20px;
+  font-weight: bold;
+  font-size: x-large;
+  color: black;
+}
+.converter-box {
+  max-width: 400px;
+  margin: auto;
+  background-color: rgba(255, 255, 255, 0.462); 
+  padding: 30px;
+  border-radius: 15px;
+  
+}
